@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <defs>
+    <linearGradient id="primary-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Squircle container -->
+  <rect x="4" y="4" width="120" height="120" rx="28" fill="url(#primary-grad)" />
+  
+  <!-- AI Sparkle in top right -->
+  <path d="M98 16 L100.5 23 L107.5 25.5 L100.5 28 L98 35 L95.5 28 L88.5 25.5 L95.5 23 Z" fill="#93C5FD" />
+  <circle cx="110" cy="38" r="2.5" fill="#BFDBFE" />
+
+  <!-- Crisp Vector Character '수' -->
+  <g transform="translate(64, 67) scale(0.038, -0.038) translate(-1024, -764)">
+    <path d="M1716 930Q1490 977 1297.0 1086.0Q1104 1195 1022 1313Q940 1189 746.0 1079.0Q552 969 344 930L195 1120Q511 1158 704.0 1303.0Q897 1448 897 1620V1708H1147V1620Q1147 1446 1338.0 1300.0Q1529 1154 1845 1118ZM1147 537V-180H897V537H129V748H1919V537Z" fill="#FFFFFF" />
+  </g>
+</svg>
